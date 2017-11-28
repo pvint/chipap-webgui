@@ -1,3 +1,5 @@
+*NOTE: The instructions below are for installing on a Raspberry Pi and hove not yet been updated for a NextThing CHIP - I'm working on it!*
+
 ![](http://i.imgur.com/xeKD93p.png)
 # `$ chipap-webgui` [![Release 1.3.0](https://img.shields.io/badge/Release-1.3.0-green.svg)](https://github.com/billz/chipap-webgui/releases)
 A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
